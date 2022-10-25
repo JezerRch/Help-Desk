@@ -1,7 +1,7 @@
 <? require_once "validador_acesso.php" ?>
 
 <!DOCTYPE html>
-<html>
+<html lang="pt-br">
 
 <head>
   <meta charset="UTF-8">
