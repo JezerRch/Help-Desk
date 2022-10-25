@@ -13,7 +13,7 @@ Uma aplicação de abertura de chamado feito em aula do PHP 7
 
 <body>
   <h1>Tela de login</h1>
-  <img src="img/tela_de_login.PNG" alt="login">
+  <img src="img/tela_de_login.png" alt="login">
 </body>
 
 </html>
